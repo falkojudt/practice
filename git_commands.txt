@@ -1,0 +1,5 @@
+git add
+git commit -m "comment"
+git push origin master (push to remote)
+git pull origin master (pull stuff from remote)
+git clone url
